@@ -6,8 +6,6 @@ Welcome to the Escrow Real Estate Smart Contract repository. This project is an 
 
 - [Overview](#overview)
 - [Roles](#roles)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contribute](#contribute)
 - [License](#license)
 
